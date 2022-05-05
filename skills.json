@@ -1,11 +1,10 @@
 {
-	"Terminal",
-	"JS",
-	"Postman,Fidler",
-	"Github",
-	"JSON,XML",
-	"SDLC,STLC",
-	"API testing",
-	"Jmeter",
-	"etc."
+	"s1":"Terminal",
+	"s2":"JS",
+	"s3":"Postman, Fidler",
+	"s4":"Github",
+	"s5":"JSON, XML",
+	"s6":"SDLC, STLC",
+	"s7":"API testing",
+	"s8":"Jmeter"
 }
